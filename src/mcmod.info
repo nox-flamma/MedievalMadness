@@ -1,0 +1,17 @@
+[
+{
+  "modid": "medievalmadness",
+  "name": "Medieval Madness",
+  "description": "Bringing PvP to a new (almost mad) level!",
+  "version": "1.0",
+  "credits": "Created by nickpops98 and Cooliew",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "nickpops98", "Cooliew" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+]
+}

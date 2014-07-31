@@ -1,0 +1,17 @@
+[
+{
+  "modid": "castlechaos",
+  "name": "Castle Chaos",
+  "description": "Bringing PvP to a new (almost chaotic) level!",
+  "version": "1.0",
+  "credits": "Created by nickpops98 and Cooliew",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "nickpops98", "Cooliew" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+]
+}
